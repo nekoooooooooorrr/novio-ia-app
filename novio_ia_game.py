@@ -557,5 +557,4 @@ def obtener_respuesta_groq(mensajes):
 
 
 if __name__ == "__main__":
-    app = DatingSimApp()
     app.mainloop()
