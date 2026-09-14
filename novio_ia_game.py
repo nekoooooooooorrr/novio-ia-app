@@ -227,9 +227,6 @@ def obtener_respuesta_groq(mensajes):
             continue
     raise ultimo_error
 
-
-class DatingSimApp(ctk.CTk):
-
     def __init__(self):
         super().__init__()
         self.title("My Perfect Boyfriend 💖")
