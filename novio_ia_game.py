@@ -4,10 +4,6 @@ import threading
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 from groq import Groq
 
-# Configuración visual base
-ctk.set_appearance_mode("Dark")
-ctk.set_default_color_theme("blue")
-
 # Clave de API de Groq
 GROQ_API_KEY = "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"
 
