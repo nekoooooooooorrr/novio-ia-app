@@ -554,6 +554,3 @@ def obtener_respuesta_groq(mensajes):
     def limpiar_pantalla(self):
         for widget in self.winfo_children():
             widget.destroy()
-
-
-if __name__ == "__main__":
