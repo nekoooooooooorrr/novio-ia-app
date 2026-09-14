@@ -1,7 +1,6 @@
 import io
 import math
 import threading
-import customtkinter as ctk
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 from groq import Groq
 
